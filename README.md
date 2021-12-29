@@ -12,6 +12,6 @@ By completing the tutorial, I had learned to create a project and make a pull re
 
 #First Commit starts here..
 
-I love :coffee: :pizza: :smiley:
+I love :coffee: and :pizza: :smiley:
 
 
