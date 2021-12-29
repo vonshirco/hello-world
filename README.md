@@ -9,3 +9,9 @@ Make changes to a file and push them to GitHub as commits
 Open and merge a pull request
 
 By completing the tutorial, I had learned to create a project and make a pull request on GitHub
+
+#First Commit starts here..
+
+I love :coffee: :pizza: :smiley:
+
+
